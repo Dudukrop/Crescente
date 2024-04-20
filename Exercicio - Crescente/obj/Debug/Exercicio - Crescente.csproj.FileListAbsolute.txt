@@ -1,0 +1,15 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.exe.config
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\bin\Debug\Exercicio - Crescente.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.csproj.AssemblyReference.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.csproj.SuggestedBindingRedirects.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.csproj.CoreCompileInputs.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - Crescente\Exercicio - Crescente\obj\Debug\Exercicio - Crescente.pdb
